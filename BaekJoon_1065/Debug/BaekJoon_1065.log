@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Baekjoon\BaekJoon_1065\소스.cpp(23,21): warning C4101: 'hansu' :참조되지 않은 지역 변수입니다.
+C:\Baekjoon\BaekJoon_1065\소스.cpp(23,35): warning C4101: 'first' :참조되지 않은 지역 변수입니다.
+C:\Baekjoon\BaekJoon_1065\소스.cpp(23,28): warning C4101: 'digits' :참조되지 않은 지역 변수입니다.
+C:\Baekjoon\BaekJoon_1065\소스.cpp(23,15): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Baekjoon\BaekJoon_1065\소스.cpp(23,41): warning C4101: 'second' :참조되지 않은 지역 변수입니다.
+  BaekJoon_1065.vcxproj -> C:\Baekjoon\BaekJoon_1065\Debug\BaekJoon_1065.exe
